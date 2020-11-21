@@ -1,0 +1,63 @@
+# for information & examples on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+
+# add as many "name+comment" entries as necessary
+# (or remove it altogether if you haven't collaborated with anyone)
+collaboration:
+  - name: Alfred Le
+    comment: inspiration to make my own synth rather than relying upon phrase and part which dont work very well>-
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code:
+  - comment: the moon from my COMP6720 assignment 2 - rotated
+    url: https://comp1720.cecs.anu.edu.au/u4022214/comp1720-2020-assignment-2/
+    licence: Copyright Benedict Cusack 2020. All Rights Reserved.  (Also ANU owns copyright on assignment submissions I think)
+
+  - comment: the random clouds from my COMP6720 assignment 1 - although heavily refactored
+    url: https://comp1720.cecs.anu.edu.au/u4022214/comp1720-2020-assignment-1/
+    licence: Copyright Benedict Cusack 2020. All Rights Reserved.  (Also ANU owns copyright on assignment submissions I think)
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external assets)
+assets:
+
+  - comment: didjeridu background by Alexander Blu, resampled to reduce file size
+    url: http://www.orangefreesounds.com/didgeridoo-music/
+    licence: CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+
+  - comment: didjeridu growls x3 sliced from beginning of Sandy R B's excellent pack
+    url: https://freesound.org/people/sandyrb/packs/5597/
+    licence: CC-BY 3.0 ES https://creativecommons.org/licenses/by/3.0/es/deed.en
+
+  - comment: Google font Syne Mono
+    url: https://fonts.google.com/specimen/Syne+Mono?preview.text=ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz&preview.text_type=custom&sidebar.open=true&selection.family=Syne+Mono
+    licence: Free and Open Source https://fonts.google.com/about?sidebar.open=true&selection.family=Open+Sans
+
+    
+  - comment: Central Australia colours, ghostgum style and reflecting water heavily inspired by Albert Namatjira
+    url: See for example my visual diary from week 3 https://discourse.cecs.anu.edu.au/t/namatjira-central-australia-in-watercolours/5923
+    licence: Copyright Albert Namatjira (c 1940).  All Rights Reserved
+
+  - comment: I read about Malingee here
+    url: http://www.katekrake.com/curios/creaturesaustralianaboriginallegends/
+    licence: Article is (presumably) All Rights Reserved.
+    
+  - comment: I got ideas for drawing a wood fire from here
+    url: https://www.dreamstime.com/illustration/cartoon-wood-fire.html
+    licence: Editorial Licence (for non-commercial purposes only)
+    
+  - comment: I borrowed the idea from Brian Eno's Bloom for sprites to self-germinate if the user doesn't do anything
+    url: http://www.generativemusic.com/bloom.html
+    licence: Copyright 2017 All Rights Reserved by Generative Music
+
+
+
+
+# sign *your* name and uid here
+name: Benedict Cusack
+uid: u4022214
